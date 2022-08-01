@@ -7,7 +7,8 @@ Retailers provide different costs and consumers opt for different
 Project URL:
 https://kind-grass-02ccbd410.1.azurestaticapps.net/
 ## HOME
-![Capture1](https://user-images.githubusercontent.com/109746608/182200743-90011e76-04bb-4b05-85f6-dfde139830a9.PNG)
+![Capture1](https://user-images.githubusercontent.com/109746608/182206441-aba62c14-b09c-470f-b26a-faa330e1bc30.PNG)
+
 ## ABOUT
 ![Capture3](https://user-images.githubusercontent.com/109746608/182200986-af12863b-a7d0-421f-8834-984eba985fa7.PNG)
 ## LATEST NEWS
