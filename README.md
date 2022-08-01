@@ -4,7 +4,7 @@
 Fashion category website is to select one of the item to dress.It comprises various styles across the world.
 Great platform for both retailer and consumer.
 Retailers provide different costs and consumers opt for different
-Project URL:
+## Project URL:
 https://kind-grass-02ccbd410.1.azurestaticapps.net/
 ## HOME
 ![Capture1](https://user-images.githubusercontent.com/109746608/182206441-aba62c14-b09c-470f-b26a-faa330e1bc30.PNG)
